@@ -1,0 +1,32 @@
+poiID;poiName;lat;long;rideDuration;theme;theme2;theme3;theme4
+1;Gadget's Go Coaster;33.810259;-117.918438;1;Kiddie;Roller Coaster;;
+2;Astro Orbitor;28.418532;-81.579153;1.5;Spinning Ride;;;
+3;Mad Tea Party;33.813458;-117.918289;1.5;Family;Spinning Ride;;
+4;Dumbo the Flying Elephant;33.81368;-117.918928;1.67;Family;Spinning Ride;;
+5;Mr. Toad's Wild Ride;33.813311;-117.918697;2;Dark;Ride;;Indoor
+6;Snow White's Scary Adventures;33.813159;-117.919066;2;Ride;Family;Dark;Indoor
+7;King Arthur Carrousel;33.813375;-117.918953;3;Family;Spinning Ride;;
+8;Peter Pan's Flight;33.813087;-117.918704;3;Ride;Family;Dark;Indoor
+9;Pinocchio's Daring Journey;33.813281;-117.919165;3;Family;Ride;Dark;Indoor
+10;Alice in Wonderland;33.813168;-117.919387;4;Family;Ride;Dark;Indoor
+11;Casey Jr. Circus Train;33.813688;-117.91919;4;Kiddie;Roller Coaster;;
+12;Matterhorn Bobsleds;33.813041;-117.917815;4;Roller Coaster;;;
+13;Roger Rabbit's Car Toon Spin;33.815176;-117.918092;4;Family;Ride;Dark;Indoor
+14;The Many Adventures of Winnie the Pooh;33.812115;-117.923284;4;Family;Ride;Dark;Indoor
+15;Autopia;33.812151;-117.91653;4.5;Ride;;;
+16;Buzz Lightyear Astro Blasters;33.812204;-117.91801;4.5;Family;Ride;Dark;Indoor
+17;Hyperspace Mountain;33.811348;-117.917201;5;Roller Coaster;Dark;;Indoor
+18;Jungle Cruise;33.811403;-117.920102;7.5;Water;Family;;
+19;Tarzan's Treehouse;33.811282;-117.920544;9;Kiddie;;;
+20;Haunted Mansion;33.811469;-117.92272;9;Dark;Ride;;Indoor
+21;Storybook Land Canal Boats;33.813651;-117.918258;9.5;Water;Family;;
+22;Davy Crockett's Explorer Canoes;33.812616;-117.92238;10;Water;Family;;
+23;Indiana Jones Adventure;33.811577;-117.920221;10;Dark;Ride;;Indoor
+24;Finding Nemo Submarine Voyage;33.812825;-117.91681;13;Water;Family;Ride;
+25;It's A Small World;33.814967;-117.917526;14;Water;Ride;Dark;Indoor
+26;Sleeping Beauty Castle Walkthrough;33.812756;-117.918961;15;Family;;;Indoor
+27;Star Tours;33.81203;-117.917903;15;Ride;Dark;;Indoor
+28;Main Street Cinema;33.810704;-117.918825;15;Family;Show;;Indoor
+29;Pirates of the Caribbean;33.811231;-117.920793;15;Water;Dark;;Indoor
+30;Mark Twain Riverboat;33.812255;-117.920552;18;Water;Family;;
+31;Fantasmic!;33.812491;-117.921518;25;Family;Show;;

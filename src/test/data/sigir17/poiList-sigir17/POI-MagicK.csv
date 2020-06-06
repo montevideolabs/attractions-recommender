@@ -1,0 +1,28 @@
+poiID;poiName;lat;long;rideDuration;theme;theme2;theme3;theme4
+1;Space Mountain;28.418752;-81.578145;10;Roller Coaster;;;Indoor
+2;Astro Orbiter;28.418542;-81.579111;1.5;Spinning Ride;;;
+3;Buzz Lightyear's Space Ranger Spin;28.418219;-81.579511;4.5;Ride;Family;Dark;Indoor
+4;Monsters Inc Laugh Floor;28.41841;-81.579712;15;Family;Show;;Indoor
+5;Stitch's Great Escape!;28.418568;-81.579602;12;Family;;;Indoor
+6;Tomorrowland Speedway;28.419424;-81.579269;4.25;Ride;Family;;Indoor
+7;Dumbo The Flying Elephant;28.420293;-81.57889;1.5;Spinning Ride;;;
+8;The Barnstormer;28.420646;-81.578548;2;Roller Coaster;;;
+9;The Many Adventures of Winnie the Pooh;28.420127;-81.580184;4;Ride;Family;Dark;Indoor
+10;Under the Sea - Journey of The Little Mermaid;28.421283;-81.57968;7;Ride;Family;Dark;Indoor
+11;Pete's Silly Sideshow;28.421316;-81.57906;3;Family;Show;;
+12;It's A Small World;28.420815;-81.581992;14;Water;Ride;Dark;Indoor
+13;Haunted Mansion;28.42089;-81.582829;10;Dark;Ride;;
+14;Prince Charming Regal Carrousel;28.420139;-81.581174;2;Family;Ride;;
+15;Peter Pan's Flight;28.420231;-81.581901;3;Ride;Family;Dark;Indoor
+16;Mickey's PhilharMagic;28.41988;-81.581657;12;Show;Family;4D Ride;Indoor
+17;The Hall of Presidents;28.419497;-81.582281;23;Family;Show;;
+18;Tom Sawyer Island;28.419698;-81.583499;30;Family;;;
+19;Big Thunder Mountain Railroad;28.420313;-81.584803;7;Roller Coaster;;;
+20;Splash Mountain;28.41915;-81.584998;18;Water;Roller Coaster;Dark;
+21;Pirates of the Caribbean;28.417911;-81.584312;7.5;Water;Dark;;Indoor
+22;Country Bear Jamboree;28.418719;-81.583798;10;Show;Family;;Indoor
+23;The Magic Carpets of Aladdin;28.418407;-81.583481;1.5;Ride;Family;;
+24;Jungle Cruise;28.417955;-81.583504;8;Water;Family;;
+25;Swiss Family Treehouse;28.418135;-81.583047;12.5;Family;;;
+26;Frontierland Shootin' Arcade;28.418675;-81.583203;3;Family;;;
+27;Walt Disney World Railroad;28.41645;-81.581199;20;Family;;;

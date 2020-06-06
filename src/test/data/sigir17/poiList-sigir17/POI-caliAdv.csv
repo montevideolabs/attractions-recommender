@@ -1,0 +1,26 @@
+poiID;poiName;lat;long;rideDuration;theme;theme2;theme3;theme4
+1;Jumpin' Jellyfish;33.805968;-117.922717;1;Ride;Height;;
+2;Francis' Ladybug Boogie;33.80661;-117.917583;1;Kiddie;Family;;
+3;Goofy's Sky School;33.80631;-117.923036;1.5;Roller Coaster;;;
+4;Flik's Flyers;33.806812;-117.917778;1.5;Family;Spinning Ride;;
+5;Silly Symphony Swings;33.805556;-117.922848;2;Spinning Ride;;;
+6;Mater's Junkyard Jamboree;33.806487;-117.919092;2;Kiddie;Family;;
+7;King Triton's Carousel;33.80454;-117.921177;2;Family;Spinning Ride;;
+8;Heimlich's Chew Chew Train;33.806384;-117.918084;2;Family;Ride;;
+9;Tuck and Roll's Drive 'Em Buggies;33.806373;-117.917517;2;Ride;Family;;
+10;Golden Zephyr;33.80596;-117.922265;2.5;Spinning Ride;;;
+11;California Screamin';33.804481;-117.920886;4;Roller Coaster;Drop;;
+12;Soarin' Around the World;33.808353;-117.920017;4.5;Ride;Family;3D Ride;Indoor
+13;Monsters, Inc. Mike & Sulley to the Rescue!;33.808324;-117.917278;5;Ride;Family;Dark;Indoor
+14;Radiator Springs Racers;33.804962;-117.918218;6;Ride;Family;;
+15;The Twilight Zone Tower of Terror;33.806607;-117.916916;6;Roller Coaster;Drop;Dark;Indoor
+16;The Little Mermaid ~ Ariel's Undersea Adventure;33.806285;-117.92151;7;Ride;Family;Dark;Indoor
+17;Grizzly River Run;33.807572;-117.920859;7;Water;Ride;;
+18;Mickey's Fun Wheel;33.805046;-117.922333;9;Family;Ride;Height;
+19;The Bakery Tour, hosted by Boudin Bakery;33.806032;-117.919717;9;Show;Family;;Indoor
+20;It's Tough to Be a Bug!;33.80697;-117.918662;10;Show;Family;3D Show;Indoor
+21;Red Car Trolley & News Boys;33.807062;-117.917905;15;Ride;Show;Family;
+22;Turtle Talk with Crush;33.807414;-117.917724;17;Family;Show;;Indoor
+23;Redwood Creek Challenge Trail;33.806958;-117.921459;20;Kiddie;Family;;
+24;Disney Junior - Live on Stage!;33.807419;-117.918332;25;Family;Show;;Indoor
+25;Animation Academy;33.807424;-117.917375;35;Family;Kiddie;;Indoor

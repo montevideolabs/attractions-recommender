@@ -1,0 +1,14 @@
+poiID;poiName;lat;long;rideDuration;theme;theme2;theme3;theme4
+1;Rock 'n' Roller Coaster;28.357837;-81.560349;1.5;Roller Coaster;;;
+2;Toy Story Midway Mania!;28.356163;-81.561315;6.5;Ride;Family;4D Ride;Indoor
+3;Star Tours: The Adventures Continue;28.355298;-81.558642;7;Ride;Family;3D Ride;Indoor
+4;Jedi Training: Trials of the Temple;28.355645;-81.558711;15;Kids;Show;;
+5;The Twilight Zone Tower of Terror;28.360014;-81.559949;15;Roller Coaster;Drop;Dark;Indoor
+6;Muppet*Vision 3D;28.354907;-81.559527;17;Ride;Family;4D Ride;Indoor
+7;Voyage of The Little Mermaid;28.357488;-81.560997;17;Family;Show;;Indoor
+8;The Great Movie Ride;28.356736;-81.560611;19;Ride;Dark;;Indoor
+9;Fantasmic;28.361238;-81.558197;25;Family;Show;;
+10;Beauty and the Beast - Live on Stage;28.359296;-81.559016;25;Family;Show;;
+11;Walt Disney: One Man's Dream;28.356949;-81.561011;25;Family;Show;;Indoor
+12;Disney Junior - Live on Stage!;28.357814;-81.560655;25;Family;Show;;Indoor
+13;Indiana Jones Epic Stunt Spectacular!;28.356606;-81.558322;30;Family;Show;;Indoor
